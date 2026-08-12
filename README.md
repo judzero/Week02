@@ -1,7 +1,7 @@
 # WEEK 02
 &nbsp;
-Project Overview
+# Project Overview
 &nbsp;
-Learning Objective
+# Learning Objective
 &nbsp;
-Company Scenario
+# Company Scenario
